@@ -1,1 +1,1 @@
-# KnapsaProblem-using-Genetic-Algorithms
+# Knapsack Problem-using-Genetic-Algorithms
